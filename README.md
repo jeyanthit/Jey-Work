@@ -1,2 +1,2 @@
 # Jeyanthi Thiagarajan - Machine Learning Portfolio
-Jeyanthi's  Machine Learning Projects done unders-'CLASSIFICATION'
+Jeyanthi's  Machine Learning Projects done unders-'REGRESSION'
