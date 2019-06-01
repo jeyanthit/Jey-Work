@@ -1,3 +1,5 @@
-# Jey-Work
-Jeyanthi's work like Coursera Machine Learning Assignments etc
-This folder consists of the Assignments of Course1-Machine Learning Foundations-'A Case Study Approach'
+# Jeyanthi Thiagarajan - Machine Learning Portfolio - Github
+Key Projects completed as part of Machine Learning Specialization can be found in -
+Machine Learning Projects Write Up -  Key Projects - v1.0.odt
+
+
